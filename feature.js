@@ -7,4 +7,4 @@ const text = "content"
 
 const foo = "bar"
 
-const conflict = foo
+const conflict = text
