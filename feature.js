@@ -15,4 +15,5 @@ if (conflict) {
   process.exit(1)
 }
 
+// comment for 0.4.2
 return
