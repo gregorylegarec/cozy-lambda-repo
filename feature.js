@@ -14,3 +14,5 @@ const hello = "world"
 if (conflict) {
   process.exit(1)
 }
+
+return
