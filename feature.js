@@ -1,3 +1,4 @@
 const options = {
-  key: value
+  key: value,
+  otherkey: othervalue
 }
