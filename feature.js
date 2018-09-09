@@ -15,5 +15,7 @@ if (conflict) {
   process.exit(1)
 }
 
+const foo = () => 'bar'
+
 // comment for 0.4.2
 return
