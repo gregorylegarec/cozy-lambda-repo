@@ -3,7 +3,7 @@ const options = {
   otherkey: othervalue
 }
 
-const text = "content"
+const text = "content text"
 
 const foo = "bar"
 
